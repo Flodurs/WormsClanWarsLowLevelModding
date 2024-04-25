@@ -1,4 +1,4 @@
-# WormsClanWarsCheat
+# WormsClanWarsLowLevelModding
 Implements external memory modification in Worms Clan Wars
 
-!Educational and LEGAL purpose only!
+!Educational purpose only!
